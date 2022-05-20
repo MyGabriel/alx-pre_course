@@ -1,2 +1,2 @@
 My first readme
-a directory
+Do your best
