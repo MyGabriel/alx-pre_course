@@ -1,0 +1,7 @@
+I verifeid the changes by
+git log --oneline
+l fetch the update by 
+git fetch
+Finally I used 
+git pull 
+to update git 
